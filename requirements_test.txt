@@ -1,3 +1,3 @@
 pytest-homeassistant-custom-component
-myq-community-client @ git+https://github.com/Jxck-S/myq-community-client.git@32df6b4a432fbdfe0cbd9431a86f8dbede3e6a43
+myq-community-client @ git+https://github.com/Jxck-S/myq-community-client.git@b29d25131637b42d27174da7572913097c5bae51
 ruff

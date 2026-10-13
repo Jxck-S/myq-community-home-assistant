@@ -9,7 +9,7 @@
     "issue_tracker": "https://github.com/Jxck-S/myq-community-home-assistant/issues",
     "loggers": ["myqcommunity"],
     "requirements": [
-        "git+https://github.com/Jxck-S/myq-community-client.git@32df6b4a432fbdfe0cbd9431a86f8dbede3e6a43#egg=myq-community-client==0.2.1"
+        "git+https://github.com/Jxck-S/myq-community-client.git@b29d25131637b42d27174da7572913097c5bae51#egg=myq-community-client==0.2.1"
     ],
     "version": "0.1.0"
 }
