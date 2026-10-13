@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="assets/home-assistant.png" height="120" alt="Home Assistant" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo.png" height="120" alt="myQ Community integration" />
+</p>
+
 # myQ Community Home Assistant Integration
-<img src="assets/logo.png" width="200" />
 
 This integration lets you open your **myQ Community** gates and doors from Home Assistant and see the latest access event.
 
