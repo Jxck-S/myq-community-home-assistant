@@ -1,0 +1,3 @@
+pytest-homeassistant-custom-component
+myq-community-client @ git+https://github.com/Jxck-S/myq-community-client.git@32df6b4a432fbdfe0cbd9431a86f8dbede3e6a43
+ruff

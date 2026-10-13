@@ -1,0 +1,39 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to myQ Community",
+        "description": "Sign in with the email and password you use in the myQ Community app. myQ will then send you a one-time code.",
+        "data": {
+          "email": "Email",
+          "password": "Password"
+        }
+      },
+      "otp": {
+        "title": "Enter your one-time code",
+        "description": "myQ sent a code by {method} to {destination}. Enter it below.",
+        "data": {
+          "code": "One-time code"
+        }
+      },
+      "reauth_confirm": {
+        "title": "Sign in to myQ Community again",
+        "description": "The saved login for {email} no longer works. Enter your password; myQ will send a new one-time code.",
+        "data": {
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Invalid email or password.",
+      "invalid_code": "That code didn't work. Check it and try again.",
+      "login_expired": "The login expired before the code was accepted. Sign in again to get a new code.",
+      "cannot_connect": "Couldn't reach myQ. Try again later.",
+      "unknown": "Unexpected error. Check the Home Assistant logs."
+    },
+    "abort": {
+      "already_configured": "This account is already set up.",
+      "reauth_successful": "Signed in again."
+    }
+  }
+}
